@@ -1,0 +1,11 @@
+C:\Users\user\documents\visual studio 2010\Projects\ClosePrice\ClosePrice\bin\Debug\ClosePrice.exe
+C:\Users\user\documents\visual studio 2010\Projects\ClosePrice\ClosePrice\bin\Debug\ClosePrice.pdb
+C:\Users\user\documents\visual studio 2010\Projects\ClosePrice\ClosePrice\bin\Debug\ClosePrice.xml
+C:\Users\user\documents\visual studio 2010\Projects\ClosePrice\ClosePrice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2010\Projects\ClosePrice\ClosePrice\obj\x86\Debug\ClosePrice.Form1.resources
+C:\Users\user\documents\visual studio 2010\Projects\ClosePrice\ClosePrice\obj\x86\Debug\ClosePrice.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\ClosePrice\ClosePrice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\documents\visual studio 2010\Projects\ClosePrice\ClosePrice\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\documents\visual studio 2010\Projects\ClosePrice\ClosePrice\obj\x86\Debug\ClosePrice.exe
+C:\Users\user\documents\visual studio 2010\Projects\ClosePrice\ClosePrice\obj\x86\Debug\ClosePrice.xml
+C:\Users\user\documents\visual studio 2010\Projects\ClosePrice\ClosePrice\obj\x86\Debug\ClosePrice.pdb
